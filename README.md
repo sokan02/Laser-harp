@@ -22,5 +22,5 @@ Arduino · Lasers · MIDI · Python
 3. Run `live_harfa.py` for MIDI output
 
 ## Images
-Project images and schematics can be found at the following link:  
+Project images can be found at the following link:  
 https://drive.google.com/drive/u/0/folders/16Vb5HLQeS4HylaVSjotVZjERahWZ7sgf
