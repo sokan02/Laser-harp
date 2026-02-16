@@ -1,5 +1,12 @@
 # 🎼 Laser Harp – Embedded Real-Time Audio System
 
+## 🎥 Demo & Media
+
+Project photos and demonstration videos are available here:  
+👉 [View Images and Videos](https://drive.google.com/drive/u/0/folders/16Vb5HLQeS4HylaVSjotVZjERahWZ7sgf)
+
+---
+
 ## Overview
 
 Laser Harp is a real-time embedded system integrating an Arduino microcontroller and a Raspberry Pi to create a hardware–software audio pipeline.
